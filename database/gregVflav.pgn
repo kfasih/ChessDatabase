@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/LzvBtZ93"]
+[White "Gregster101"]
+[Black "flavietta"]
+[Result "1-0"]
+[UTCDate "2017.03.31"]
+[UTCTime "22:00:00"]
+[WhiteElo "1385"]
+[BlackElo "1339"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-9"]
+[ECO "C34"]
+[Opening "King's Gambit Accepted, King's Knight Gambit"]
+[TimeControl "120+1"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:02:00] } e5 { [%clk 0:02:00] } 2. f4 { [%clk 0:02:00] } exf4 { [%clk 0:02:00] } 3. Nf3 { [%clk 0:01:59] } Bc5 { [%clk 0:01:59] } 4. d4 { [%clk 0:01:59] } Bb6 { [%clk 0:01:58] } 5. Bxf4 { [%clk 0:01:59] } Nf6 { [%clk 0:01:58] } 6. e5 { [%clk 0:01:58] } Qe7 { [%clk 0:01:56] } 7. Bc4 { [%clk 0:01:54] } O-O { [%clk 0:01:53] } 8. O-O { [%clk 0:01:53] } Ng4 { [%clk 0:01:49] } 9. c3 { [%clk 0:01:39] } d6 { [%clk 0:01:39] } 10. Nbd2 { [%clk 0:01:32] } Nc6 { [%clk 0:01:36] } 11. Re1 { [%clk 0:01:30] } Bf5 { [%clk 0:01:28] } 12. exd6 { [%clk 0:01:26] } cxd6 { [%clk 0:01:27] } 13. Rxe7 { [%clk 0:01:24] } Nxe7 { [%clk 0:01:23] } 14. Nh4 { [%clk 0:01:21] } Bd7 { [%clk 0:01:18] } 15. Bxd6 { [%clk 0:01:16] } Rfe8 { [%clk 0:01:12] } 16. Qf3 { [%clk 0:01:13] } Nf6 { [%clk 0:00:42] } 17. Re1 { [%clk 0:01:07] } Ned5 { [%clk 0:00:33] } 18. Rxe8+ { [%clk 0:01:05] } Rxe8 { [%clk 0:00:32] } 19. Bxd5 { [%clk 0:01:03] } Re1+ { [%clk 0:00:17] } 20. Kf2 { [%clk 0:00:59] } Ra1 { [%clk 0:00:07] } 21. Ne4 { [%clk 0:00:46] } Ng4+ { [%clk 0:00:05] } 22. Kg3 { [%clk 0:00:42] } Nf6 { [%clk 0:00:02] } 23. Nxf6+ { [%clk 0:00:42] } gxf6 { [%clk 0:00:01] } 24. Qxf6 { [%clk 0:00:42] } 1-0
+
